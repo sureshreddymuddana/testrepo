@@ -1,4 +1,5 @@
-rfghjk
-xmksdjcd
-[A[A
-[A243
+firstline  
+mycode 1
+
+second line 
+mycode 2
